@@ -9,7 +9,7 @@ Hello!  I’m Don Mitchell, a metrics driven, strategist, technical program mana
  
 *I use data and technology to help organizations shape strategy, improve performance, and drive adoption across the public and education sectors. My background spans technology-adjacent roles with leading organizations in both the technology and public sectors. Currently, I work as an education management consultant at Edusightsolutions LLC, supporting public sector institutions with technology integration, assessment administration, application development and the strategic rollout of performance and data systems.*
  
-**-     <img width="23" height="18" alt="image" src="https://github.com/user-attachments/assets/29bb4328-a7f7-4e62-a928-4a250098d5a1" />
+**     <img width="23" height="18" alt="image" src="https://github.com/user-attachments/assets/29bb4328-a7f7-4e62-a928-4a250098d5a1" />
 AWS Cloud Solution Architecture Consulting.  **
 Guiding customers on best practices, cloud strategy, and service selection, often focusing on ROI and Business Development rather than implementation.
  
