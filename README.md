@@ -5,7 +5,7 @@ Hello!  I’m Don Mitchell, a metrics driven, strategist, technical program mana
 
 
 <!--Mention your top/relevant skills here – core and soft skills-->
-##  WHAT I DO
+##  SKILLS
  
 *I use data and technology to help organizations shape strategy, improve performance, and drive adoption across the public and education sectors. My background spans technology-adjacent roles with leading organizations in both the technology and public sectors. Currently, I work as an education management consultant at Edusightsolutions LLC, supporting public sector institutions with technology integration, assessment administration, application development and the strategic rollout of performance and data systems.*
  
