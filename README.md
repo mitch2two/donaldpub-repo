@@ -11,17 +11,14 @@ Hello!  I’m Don Mitchell, a metrics driven, strategist, technical program mana
  
 **-    <img width="23" height="18" alt="image" src="https://github.com/user-attachments/assets/29bb4328-a7f7-4e62-a928-4a250098d5a1" />
 AWS Cloud Solution Architecture Consulting.  **
-
 Guiding customers on best practices, cloud strategy, and service selection, often focusing on ROI and Business Development rather than implementation.
  
 **-     <img width="23" height="18" alt="image" src="https://github.com/user-attachments/assets/29bb4328-a7f7-4e62-a928-4a250098d5a1" />
 Technical Program Management.  **
-
 Managing full project management lifecycle executing disciplines of SCRUM, PMP with facilitation of communication between technical and non-technical teams, managing complex group dynamics, managing timelines, caretaking stakeholders and overseeing project resources.
  
 **-     <img width="23" height="18" alt="image" src="https://github.com/user-attachments/assets/29bb4328-a7f7-4e62-a928-4a250098d5a1" />
 Technical Product Management.  **
-
 Provide full product management lifecycle including areas like NLP, AI, and Cloud executing from concept to launch with facilitation of communication between technical and non-technical teams, managing complex group dynamics, managing timelines, caretaking stakeholders.
 
 <!--Section 2:  List 3-4 key projects-->
