@@ -26,4 +26,7 @@ Provide full product management lifecycle including areas like NLP, AI, and Clou
  
 *A glimpse of some of the projects I’ve worked on.* 
  
-**How I helped Microsoft’s Enterprise Global SW Licensing increase customer satisfaction by reducing # of SW Licensing Models by X%, and thus complexity, using a configuration modeling approach**
+**How I helped Microsoft’s Enterprise Global SW Licensing increase customer satisfaction by reducing # of Worldwide SW Licensing Models by X%, and thus complexity, using a configuration modeling approach**
+![image](Team Projects PresentationLMPforGitHub.jpg)
+
+Licensing Program Models are Microsoft’s product like constructs used to monetize intellectual property (e.g. servers, desktop suite, OS, etc.)
