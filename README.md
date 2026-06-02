@@ -30,3 +30,5 @@ Provide full product management lifecycle including areas like NLP, AI, and Clou
 ![image](Team Projects PresentationLMPforGitHub.jpg)
 
 Licensing Program Models are Microsoft’s product-like constructs used to monetize intellectual property (e.g. servers, desktop suite, OS, etc.)
+
+<a href=”Licensing Program Models GitHub Project Description.pdf”>Download the full project description here (pdf file)</a>
