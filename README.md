@@ -1,13 +1,13 @@
 <!--Section 1:  Introduce yourself-->
 ##  ABOUT ME
 
-Hello!  I’m Don Mitchell, a metrics driven, strategist, technical program manager and product owner with a passion for developing and managing programs to successful closure, and executing the product lifecycle to deliver data focused digital product solutions from concept to launch.  Recognized for successfully facilitating cross-functional group dynamics, maintaining understanding/impact of emerging technologies, regulations, and needs, with a deep network of contacts in public sector and technology ecosystems.
+Hello!  I’m Don Mitchell, a metrics driven, strategist, technical program manager and product owner with a passion for developing and managing programs to successful closure, and executing the product lifecycle to deliver data focused digital product solutions from concept to launch.
 
 
 <!--Mention your top/relevant skills here – core and soft skills-->
 ##  SKILLS
  
-*I use data and technology to help organizations shape strategy, improve performance, and drive adoption across the public and education sectors. My background spans technology-adjacent roles with leading organizations in both the technology and public sectors. Currently, I work as an education management consultant at Edusightsolutions LLC, supporting public sector institutions with technology integration, assessment administration, application development and the strategic rollout of performance and data systems.*
+*I use data and technology to help organizations shape strategy and products, facilitate programs, improve performance, and drive adoption across the public and education sectors. My background spans technology-adjacent roles with leading organizations in both the technology and public sectors. Currently, I work as an education management consultant at Edusightsolutions LLC, supporting public sector institutions with technology integration, assessment administration, application development and the strategic rollout of performance and data systems.*
  
 **-    <img width="23" height="18" alt="image" src="https://github.com/user-attachments/assets/29bb4328-a7f7-4e62-a928-4a250098d5a1" />
 AWS Cloud Solution Architecture Consulting.  **
