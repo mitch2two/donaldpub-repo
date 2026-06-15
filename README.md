@@ -33,9 +33,14 @@ Licensing Program Models are Microsoft’s product-like constructs used to monet
 
 <a href="Licensing Program Models GitHub Project Description.pdf">Download the full project description here (pdf file)</a>
 
-**Transferring and hosting my client's Social Emotional Learning (SEL) APP from a 3rd party to internal hosting on client's own servers**
+**Transferring and hosting client's Social Emotional Learning (SEL) APP from 3rd party to internal hosting on own servers**
 ![image](SELGitHubArchitecturejpeg.jpg)
 
-This client engagement focused on three critical areas:  Source Code & Platform Transition (client-controlled GitHub environment); Infrastructure Setup & Hosting Enablement (cloud-based hosting architecture using Heroku, PAAS); Operational Readiness & Deployment Strategy (process details for deployment, scaling, maintenance, etc.)
+Three critical areas:  Source Code & Platform Transition (client-controlled GitHub environment); Infrastructure Setup & Hosting Enablement (cloud-based hosting architecture using Heroku, PAAS); Operational Readiness & Deployment Strategy (process details for deployment, scaling, maintenance, etc.)
 
 <a href="SEL_Architecture_Diagram_Enhanced 1 Final.pdf">Download the full project description here (pdf file)</a>
+
+## CONTACT
+
+📧 mitchelldonaldleon@gmail.com
+🔗 https://www.linkedin.com/in/donmitchell1
