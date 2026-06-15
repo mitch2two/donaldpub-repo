@@ -42,5 +42,6 @@ Three critical areas:  Source Code & Platform Transition (client-controlled GitH
 
 ## CONTACT
 
-📧 mitchelldonaldleon@gmail.com                                                                                            
+📧 mitchelldonaldleon@gmail.com
+
 🔗 https://www.linkedin.com/in/donmitchell1
